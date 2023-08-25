@@ -65,4 +65,4 @@ Each section that describes a component should include more than just one senten
 
 
 ## Review
-"https://gist.github.com/hineeraja/f4807d13fa0561ba6e04c8ebc4dc110a.js"
+"https://gist.github.com/hineeraja/f4807d13fa0561ba6e04c8ebc4dc110a"
